@@ -20,5 +20,5 @@ spec:
     push:
       branch: flux-automated-upgrade
   update:
-    path: ./clusters/gitops-demo
+    path: ./
     strategy: Setters
