@@ -1,4 +1,12 @@
+# The Plan
+
+## Intro
+
+- [ ] What is GitOps?
 - [ ] Show demo app (https://github.com/stefanprodan/podinfo/tree/master)
+
+## Setup
+
 - [ ] Create LKE cluster (https://cloud.linode.com/kubernetes/)
 - [ ] Install flux cli (https://fluxcd.io/flux/installation/#install-the-flux-cli)
 - [ ] Bootstrap flux (https://fluxcd.io/flux/components/)
@@ -14,8 +22,14 @@
   flux-image-automation
 ```
 
-- [ ] Deploy podinfo with kustomize controller
-- [ ] Deploy podinfo with helm controller
+## Kustomize and Helm
+
+- [ ] Show kustomize and helm deployments
+  - Deploy podinfo with kustomize controller
+  - Deploy podinfo with helm controller
+
+## Image Update Automation
+
 - [ ] Configure Image Automation Controller
   - ImageRepository
   - ImagePolicy
