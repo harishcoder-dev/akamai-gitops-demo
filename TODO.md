@@ -35,4 +35,4 @@
   - ImagePolicy
   - ImageUpdateAutomation
   - Add annotation to resource definition
-  - Show update branch and merge to `main`
+- [ ] Show update branch and merge to `main`
