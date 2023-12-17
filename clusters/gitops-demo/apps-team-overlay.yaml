@@ -4,6 +4,7 @@ metadata:
   name: apps-team-overlay
   namespace: flux-system
 spec:
+  interval: 60s
   sourceRef:
     kind: GitRepository
     name: flux-system

@@ -4,6 +4,7 @@ metadata:
   name: apps-team-helm
   namespace: flux-system
 spec:
+  interval: 60s
   sourceRef:
     kind: GitRepository
     name: flux-system
