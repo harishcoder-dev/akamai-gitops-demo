@@ -4,4 +4,4 @@ namespace: team-overlay
 resources:
   - ../../base
 patches:
-  - deployment.yaml
+  - path: deployment.yaml
