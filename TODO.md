@@ -7,7 +7,7 @@
 
 ## Setup
 
-- [ ] Create LKE cluster (https://cloud.linode.com/kubernetes/)
+- [ ] Create Akamai Kubernetes cluster (https://cloud.linode.com/kubernetes/)
 - [ ] Install flux cli (https://fluxcd.io/flux/installation/#install-the-flux-cli)
 - [ ] Bootstrap flux (https://fluxcd.io/flux/components/)
 - [ ] Repo structure (https://fluxcd.io/flux/guides/repository-structure/)
